@@ -12,12 +12,12 @@ export default function Page() {
 
   const getNoButtonText = () => {
     const phrases = [
-      "Nonnn",
+      "Nannn",
       "T'es sûr?",
       "Allerrrrrr",
       "Maisss 🙏🙏",
-      "Et avec un chocolat chaud?",
-      "Et des chocolats milka oreo?",
+      "Et avec un chocolat chaud 🍵?",
+      "Et des chocolats milka oreo 🍫?",
       "STPPPP MA STARRRR",
       "Orh",
       "Por favor 🙏🙏",
@@ -42,7 +42,7 @@ export default function Page() {
             className="h-[200px]"
             src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
           />
-          <h1 className="my-4 text-4xl">Will you be my Valentine?</h1>
+          <h1 className="my-4 text-4xl">Ma Star, est ce que tu veux être ma Valentine ?</h1>
           <div className="flex items-center">
             <button
               className={`mr-4 rounded bg-green-500 px-4 py-2 font-bold text-white hover:bg-green-700`}
